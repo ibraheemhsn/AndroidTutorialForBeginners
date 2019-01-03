@@ -2,5 +2,4 @@
 
 
 
-![main](http://attach.alruabye.net/androidTutorialForBeginners/androidTutorialForBeginners.png)
 # androidTutorialForBeginners
